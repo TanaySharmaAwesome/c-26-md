@@ -55,10 +55,9 @@ function draw(){
     pig3.display();
     log3.display();
 
-    box5.display();
     log4.display();
     log5.display();
-
+    box5.display();
     bird.display();
     platform.display();
 }
