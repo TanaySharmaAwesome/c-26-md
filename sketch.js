@@ -50,10 +50,10 @@ function draw(){
     pig1.display();
     log1.display();
 
-    box3.display();
     box4.display();
     pig3.display();
     log3.display();
+    box3.display();
 
     log4.display();
     log5.display();
